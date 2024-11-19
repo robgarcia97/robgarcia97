@@ -39,7 +39,7 @@ Coursework: Data Structures, Discrete Mathematics, Algorithm Design, Object-Orie
 
 📫 Get in Touch
 Email: robgarcia97@yahoo.com
-LinkedIn: Robert Garcia
+LinkedIn: https://www.linkedin.com/in/robert-garcia-2a036422a/
 GitHub: robgarcia97
 Let's connect and collaborate on data-driven solutions!
 
