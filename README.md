@@ -1,5 +1,5 @@
 Hi there, I'm Robert Garcia! 👋
-I'm a detail-oriented Data Analyst with a passion for transforming complex data into actionable insights. Skilled in data analysis, visualization, and automation, I ensure data integrity and meaningful reporting to support effective decision-making. My background in both technical IT support and data-driven projects has equipped me with a versatile skill set to solve diverse challenges.
+I'm a detail-oriented Data Scientist with a passion for transforming complex data into actionable insights. Skilled in data analysis, visualization, and automation, I ensure data integrity and meaningful reporting to support effective decision-making. My background in both technical IT support and data-driven projects has equipped me with a versatile skill set to solve diverse challenges.
 
 💻 Technical Skills:
 
